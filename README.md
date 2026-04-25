@@ -1,51 +1,58 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Harsh+from+India!;🌐+AI+%7C+Data+%7C+Web+Development+Explorer;🚀+Data+%7C+Python+%7C+AI"/>
+  👋 Hi, I'm Harsh Kumar
 </h1>
 
-<p align="center">
-  <img src="Resources/ban.png" width="100%" />
-</p>
-
-<h2 align="center">🚀 Data Analyst | Data Scientist | AI Enthusiast | AI Developer</h2>
+<h3 align="center">
+  🚀 AI & Data Science Enthusiast | Python Developer | ML Explorer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=talkwithharsh&label=Profile+Views&color=brightgreen&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/talkwithharsh?label=Followers&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/stars/talkwithharsh?style=flat-square&logo=github&label=Stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Data+Science;Python+Developer+%7C+Problem+Solver;Building+Real+World+Projects+🚀" />
 </p>
 
 ---
 
-## 🔥 About Me
+## 🧠 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
-
-- 🏡 From: India  
-- 🎓 Age: 19  
-- 🧑‍🎓 Student  
-- 👨‍💻 Projects: [GitHub](https://github.com/talkwithharsh?tab=repositories)  
-- 🌱 Learning: Python, Flask, ML  
-- 🤖 Building AI/ML projects  
-- 📫 Email: harshchangotra80@gmail.com  
-- 📄 [Resume](https://docs.google.com/document/d/1EViczkD86UBNK6lJWYrBW2_D1vE0dL-3/edit?usp=drive_link)  
-- ⚡ Fun Fact: Eat 🍜 Code 💻 Repeat 🔁  
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**  
+- 💻 Passionate about **AI, ML, and Data Analysis**  
+- 🚀 Building real-world projects like **Deepfake Detection System**  
+- 📈 Interested in **Data Science, Computer Vision & AI**  
+- 📫 Email: **harshchangotra80@gmail.com**  
 
 ---
 
-## 🧰 Languages & Tools
+## 🚀 Featured Project
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mongodb,mysql,git,github,flask,django,tensorflow,pytorch,seaborn,pandas,opencv,vscode" />
-</p>
+### 🎥 Deepfake Video Detection System
+- Developed a deep learning-based system to detect manipulated videos  
+- Implemented video frame extraction and classification  
+- Used Python, OpenCV, and ML techniques  
+
+🔗 **Project Link:**  
+https://github.com/talkwithharsh/deepfake-video-detection
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`Python` `C++` `Java` `JavaScript`
+
+### 📚 Libraries & Frameworks
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`  
+`TensorFlow` `PyTorch` `OpenCV`
+
+### ⚙️ Tools
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talkwithharsh&show_icons=true&theme=dark" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=talkwithharsh&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talkwithharsh&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=talkwithharsh&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -53,24 +60,24 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talkwithharsh&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talkwithharsh&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🔥 Top Languages
+## 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkwithharsh&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkwithharsh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github.com/talkwithharsh/talkwithharsh/blob/output/github-snake-dark.svg?raw=true" />
-</p>
+- 🔍 Improving ML model accuracy  
+- 📊 Practicing Data Analysis  
+- 🌐 Learning deployment (Flask / Web apps)  
 
 ---
 
@@ -84,3 +91,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+> Eat 🍜 → Code 💻 → Sleep 😴 → Repeat 🔁
