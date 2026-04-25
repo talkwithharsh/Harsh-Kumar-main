@@ -212,11 +212,11 @@ graph TD;
 
 <br>
 
-![snake gif](https://github.com/talkwithharsh/talkwithharsh/blob/output/github-snake-dark.svg) 
+[snake gif](https://github.com/talkwithharsh/talkwithharsh/blob/output/github-snake-dark.svg) 
 
 <br>
 
-![snake gif](https://github.com/talkwithharsh/talkwithharsh/blob/output/github-snake.svg) 
+[snake gif](https://github.com/talkwithharsh/talkwithharsh/blob/output/github-snake.svg) 
 
 <br>
 
