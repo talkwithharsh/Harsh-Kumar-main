@@ -108,3 +108,22 @@ graph TD;
     machine-learning-->Feature-Engineering;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
+📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=talkwithharsh&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true" height="180" width="400" />	<img src="https://streak-stats.demolab.com?user=talkwithharsh&theme=dark&background=151515" height="180" width="420"/>
+</div>
+📊 Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=talkwithharsh&theme=react-dark&area=true&hide_border=true" /> </p>
+🔥 Language Usage
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkwithharsh&theme=dark&layout=compact" height="180" width="400">	<img src="https://github-readme-stats.vercel.app/api?username=talkwithharsh&theme=dark&show_icons=true" height="180" width="400">
+</div>
+🐍 Classic Old Snake (Made by me with blobs, don't judge me) :
+<br>
+
+<br>
+
+<br> <img align="right" height="180" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" />
+🌐 Let's Connect
+
+
