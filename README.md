@@ -25,15 +25,15 @@
 ## 🔥 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320" alt="Computer Illustration" style="margin-left: 15px;"/>
-  
-- 🏡 **From:** India   
-- 🎓 **Age:** 19  
-- 🧑‍🎓 **Profession:** Student  
-- 👨‍💻 **My Projects:** [Explore on GitHub](https://github.com/talkwithharsh?tab=repositories)  
-- 👨‍💻 Currently working on **Data Analytics Projects** - 🌱 Exploring **Python**, **Flask**, and **ML Libraries** in Python  
-- 🤖 Building mini projects with **AI, ML, and DL** - 🤝 Open to collaborating on **Data Projects** & **AI Projects** - 📫 Reach me at: `harshchangotra80@gmail.com`  
-- 📄 [View My Resume](https://docs.google.com/document/d/1EViczkD86UBNK6lJWYrBW2_D1vE0dL-3/edit?usp=drive_link)  
-- ⚡ **Fun Fact:** _“Eat 🍜, Code 💻, Repeat 🔁”_
+
+* 🏡 **From:** India
+* 🎓 **Age:** 19
+* 🧑‍🎓 **Profession:** Student
+* 👨‍💻 **My Projects:** [Explore on GitHub](https://github.com/talkwithharsh?tab=repositories)
+* 👨‍💻 Currently working on **Data Analytics Projects** - 🌱 Exploring **Python**, **Flask**, and **ML Libraries** in Python
+* 🤖 Building mini projects with **AI, ML, and DL** - 🤝 Open to collaborating on **Data Projects** & **AI Projects** - 📫 Reach me at: `harshchangotra80@gmail.com`
+* 📄 [View My Resume](https://docs.google.com/document/d/1EViczkD86UBNK6lJWYrBW2_D1vE0dL-3/edit?usp=drive_link)
+* ⚡ **Fun Fact:** *“Eat 🍜, Code 💻, Repeat 🔁”*
 
 <br>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
   <h2>🔮 SKILL MATRIX</h2>
-  
+
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <div align="center">
       <table>
@@ -60,23 +60,6 @@
           </td>
           <td align="center" width="100">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="65" height="65" /><br>C++
-          </td>
-        </tr>
-        <tr>
-          <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="65" height="65" /><br>React
-          </td>
-          <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="65" height="65" /><br>Redux
-          </td>
-          <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="65" height="65" /><br>Node.js
-          </td>
-          <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="65" height="65" /><br>Webpack
-          </td>
-          <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="65" height="65" /><br>MySQL
           </td>
         </tr>
       </table>
@@ -108,22 +91,53 @@ graph TD;
     machine-learning-->Feature-Engineering;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
-📈 GitHub Stats
+```
+
+---
+
+### 📈 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=talkwithharsh&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true" height="180" width="400" />	<img src="https://streak-stats.demolab.com?user=talkwithharsh&theme=dark&background=151515" height="180" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=talkwithharsh&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true" height="180" width="400" />  
+<img src="https://streak-stats.demolab.com?user=talkwithharsh&theme=dark&background=151515" height="180" width="420"/>
 </div>
-📊 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=talkwithharsh&theme=react-dark&area=true&hide_border=true" /> </p>
-🔥 Language Usage
+
+---
+
+### 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talkwithharsh&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Language Usage
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkwithharsh&theme=dark&layout=compact" height="180" width="400">	<img src="https://github-readme-stats.vercel.app/api?username=talkwithharsh&theme=dark&show_icons=true" height="180" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talkwithharsh&theme=dark&layout=compact" height="180" width="400">  
+<img src="https://github-readme-stats.vercel.app/api?username=talkwithharsh&theme=dark&show_icons=true" height="180" width="400">
 </div>
-🐍 Classic Old Snake (Made by me with blobs, don't judge me) :
+
+---
+
+## 🐍 Classic Old Snake (Made by me with blobs, don't judge me) :
+
 <br>
 
+![snake gif dark](https://raw.githubusercontent.com/talkwithharsh/talkwithharsh/output/github-snake-dark.svg)
+
 <br>
 
-<br> <img align="right" height="180" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" />
-🌐 Let's Connect
+![snake gif](https://raw.githubusercontent.com/talkwithharsh/talkwithharsh/output/github-snake.svg)
 
+<br>
 
+<img align="right" height="180" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" />
+
+---
+
+### 🌐 Let's Connect
+
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge\&logo=GitHub\&logoColor=white)](https://github.com/talkwithharsh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge\&logo=LinkedIn\&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-6478a8372)
